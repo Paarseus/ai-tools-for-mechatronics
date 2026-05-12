@@ -1,0 +1,21 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# OS / editor
+.DS_Store
+*.swp
+*~
+
+# Personal drafts not for publishing
+linkedin_post.txt
