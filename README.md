@@ -52,7 +52,7 @@ pdflatex ai_mechatronics_lecture.tex
 
 ## Acknowledgments
 
-Thanks to the Autonomous Vehicle Laboratory at Cal Poly Pomona for the hardware and bench time used while preparing the demos.
+Lecture given at the invitation of Dr. Behnam Bahr (ME 4990 Mechatronics, Cal Poly Pomona). Changwe Musonda assisted in delivering the lecture and demos. Thanks also to the Autonomous Vehicle Laboratory for the hardware and bench time used while preparing the demos.
 
 ## Author
 
